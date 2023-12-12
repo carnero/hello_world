@@ -6,3 +6,5 @@ Test input in VS Code with new Git installed.
 To be checked pull request.
 # Test branch
 First try of branches.
+# Closing branch
+First branch close out after successful creation.
